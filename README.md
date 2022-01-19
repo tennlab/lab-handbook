@@ -1,6 +1,6 @@
 # Tennessen Laboratory Handbook
 
-### This page last updated Jan 2022
+This page last updated Jan 2022
 
 ## Welcome to the Tennessen Lab Handbook ! 
 
