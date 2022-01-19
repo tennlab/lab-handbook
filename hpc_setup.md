@@ -1,12 +1,12 @@
-# Chapter X - IU HPC Setup
+# IU HPC Setup
 
-### Last Updated Jan 2022
+Last Updated Jan 2022
 
-## Setting up your IU High Performance Computing (HPC) [accounts](https://kb.iu.edu/d/aczn)
+## Setting up your [IU High Performance Computing (HPC) accounts](https://kb.iu.edu/d/aczn)
 
 1.  Log into [One.IU](one.iu.edu)
 2.  Search for "Accounts", enter the "View Accounts" app
-	<!-- add image here -->
+	![Account Screen](/images/one_iu_view_accounts.png)
 3.  Review your computing accounts; as of 2022 for bioinformatic purposes, we recommended using at least Carbonate (shared with Research Desktop), Scholarly Data Archive (SDA), and Slate.
 4.  Click "Create Computing Account" to access further resources.  Fill out the agreement form and submit.
     - For storage resources, answer the fields
