@@ -31,6 +31,18 @@ Note that these roles are not necessarily mutually exclusive:  if the primary ne
 
 You should, in general, be scheduled for at least 1 primary and 1 secondary shift per week. See the schedule for details, and *we emphasize again to communicate any changes in your own availability ASAP*.
 
+### Daily Areas of Focus
+
+To help structure the tasks and ensure they all receive attention during the week, each day has a set of non-exclusive responsibilities that the secondary should focus on completing first:
+- **Monday**: Incubators
+- **Tuesday**: Stockroom Purchases
+- **Wednesday**: CO2/Nitrogen tanks
+- **Thursday**: Lab cleaning
+- **Friday**: Double check food cart, autoclave waste, and egg caps
+
+**Every weekday**: Dishes/egg caps/autoclave
+
+
 ## Responsibility Details
 
 ### Primary's Responsibility:  Fly Flipping
@@ -54,6 +66,13 @@ The secondary assistant has a number of tasks to fulfill; not all will need to b
     - Colored tape, Kimwipes, pipet tips, gloves, autoclave waste bags, paper towels
 - ***Restocking the food shelf*** with at least 2 trays of vials and 4 trays of bottles at all times
 - ***Cleaning glassware and plates*** in the sink, using glass cleaner and DI H2O for glassware and tap water + dish soap for the caps and any other materials.
+- ***Incubators***
+    - Change water once a week
+	- Fully clean once a month (plan on the first week of every month)
+- ***Lab Cleaning***
+    - Sanitize all exposed bench areas
+    - Put away dishes/tidy dish-drying area and add new drying strip
+    - Organize lab materials
 - ***Making egg caps*** if there is less than a full container of them in the food fridge. As the least popular and most labor intensive secondary job, if you are tasked to this, you don't need to worry as much about other tasks for the day.  Instructions are located on a sheet in the same drawer as the flipping calendar.
 
 ## Closing Remarks
